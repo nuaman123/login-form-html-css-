@@ -1,0 +1,135 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    color: white;
+
+}
+
+
+.zct-form {
+    width: 100%;
+    background-image:linear-gradient( to right, #df18a7,  #6325b6) ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+       padding: 100px 0px;
+}
+
+
+.heading p {
+    text-align: center;
+    font-size: 40px;
+    margin: 30px;
+
+    font-weight:5px ;
+
+}
+
+.zct-container {
+    max-width: 1000px;
+    padding: 0px 0px;
+    margin: auto;
+    background:#27262c;
+    border-radius: 20px;
+
+}
+
+.zct-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.zct-fisrt {
+    
+    display: flex;
+    gap: 30px;
+    width: 100%;
+    color: black;
+    
+    
+
+}
+
+.zct-fisrt input {
+     width: 100%;
+    color: black;
+ box-sizing: border-box;
+    padding: 7px ;
+    border-radius: 15px;
+    margin-top: 5px;
+   
+}
+.zct-forms{
+    width: 100%;
+    padding: 30px
+}
+.zct-fst{
+    width: 50%;
+}
+.zct-lst{
+    width: 50%;
+}
+
+
+.zct-email {
+    color: red;
+    width: 100%;
+    margin: 30px 0px;
+    
+   
+}
+
+.zct-email input {
+    width: 100%;
+    color: black;
+    border-radius: 15px;
+    padding: 7px;
+    box-sizing: border-box;
+    margin-top: 5px;
+  
+}
+
+
+.zct-textarea {
+    width: 100%;
+    margin: 30px 0px;
+    
+
+}
+
+
+
+.zct-textarea textarea {
+    width: 100%;
+    border-radius: 15px;
+    color: black;
+    box-sizing: border-box;
+    padding: 7px;
+    margin-top: 5px;
+    
+    
+
+}
+.zct-btn {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0px;
+
+}
+.zct-btn button {
+    color: white;
+    background-color: #fc0059ed;
+    padding: 10px 30px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+span {
+    color: red
+}
+.zct-fileToUpload{
+    border-radius: 15px;   
+}
