@@ -16,7 +16,4 @@
 
 
 
-## 📥 How to Use  
-1. Download the ZIP or clone the repository:  
-   ```bash
-   git clone [https://github.com/yourusername/login-form-html-css.git](https://github.com/nuaman123/login-form-html-css-?tab=readme-ov-file)
+
